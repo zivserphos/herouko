@@ -1,7 +1,6 @@
 {
   "name": "herouko",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "start": "node app.js",
@@ -9,7 +8,6 @@
   },
   "repository": {
     "type": "git",
-    
     "url": "git+https://github.com/zivserphos/herouko.git"
   },
   "keywords": [],
@@ -26,5 +24,6 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.14"
-  }
+  },
+  "description": ""
 }
